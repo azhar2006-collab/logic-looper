@@ -1,4 +1,4 @@
-import { BasePuzzle } from "./basepuzzle";
+import { BasePuzzle } from "./basePuzzle";
 
 export class LogicPuzzle extends BasePuzzle {
   constructor() {

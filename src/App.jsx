@@ -5,7 +5,7 @@ import {
   signInWithPopup,
   signOut
 } from "firebase/auth";
-import { getDailyPuzzle } from "./puzzles/dailyPuzzle";
+import { getDailyPuzzle } from "./puzzles/dailyPuzzleTemp";
 import { motion } from "framer-motion";
 
 import {

@@ -1,8 +1,8 @@
-import { MathPuzzle } from "./mathpuzzle";
-import { WordPuzzle } from "./wordpuzzle";
-import { SequencePuzzle } from "./sequencepuzzle";
+import { MathPuzzle } from "./mathPuzzle";
+import { WordPuzzle } from "./wordPuzzle";
+import { SequencePuzzle } from "./sequencePuzzle";
 import { LogicPuzzle } from "./logicpuzzle";
-import { PatternPuzzle } from "./patternpuzzle";
+import { PatternPuzzle } from "./patternPuzzle";
 
 export function getDailyPuzzle() {
   const puzzles = [
